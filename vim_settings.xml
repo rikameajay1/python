@@ -1,0 +1,61 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/PycharmProjects/firstpython/venv/Scripts/test.py" timestamp="1554992459062">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/firstpython/firstpythonfile.py" timestamp="1554993345596">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="12" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ZHNhZHNhCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZHNhZHNhCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZHNhZHNhCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZHNhZHNhCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>a=2+3
+print(a)</text>
+      </register>
+      <register name=":" type="4">
+        <text>x</text>
+      </register>
+      <register name="-" type="4">
+        <text>https://github.com/rikameajay1/maven/invitations</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd>
+        <entry>x</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
