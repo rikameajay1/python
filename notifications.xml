@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Pipfile Watcher" shouldLog="false" />
+  </component>
+</application>
